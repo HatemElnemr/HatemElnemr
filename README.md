@@ -206,7 +206,7 @@ hatem@portfolio:~$ status
 
 ```text
  ┌──────────────────────────────────────────┐
- │   🎮  GAME NOT OVER — INSERT COIN  🪙   │
+ │   🎮  GAME NOT OVER — INSERT COIN  🪙│
  └──────────────────────────────────────────┘
 ```
 
